@@ -33,3 +33,5 @@ There are a small amount of 5-star paid reviews which is close to 12 points high
 We may also look at other data sets like office supplie or homegoods to determine if this is just a baised product.
 
 We could also analyze the data sets for each individual star rating. If there is a bigger allotment of 4-star review, or what are the 1-star reviews saying. If there is a spread of reviews accross the star ratings it would possibly enlighten the SellBy management. 
+
+I worked with Zack Freskan on this project.
